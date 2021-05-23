@@ -1,8 +1,8 @@
 # Anthropomorphic Expressions Towards Robots
 ## Predicting Anthropomorphic Attitudes Towards Robots based on Physical Facial Expressions and Attributes
 
-[Read the article](article.pdf)
-[View web app](https://www.anthropomorphic-expressions.herokuapp.com)
+* [Read the article](article.pdf)
+* [View web app](https://www.anthropomorphic-expressions.herokuapp.com)
 
 ### Reproduce results
 
