@@ -5,7 +5,7 @@ Project in Experimental Cognitive Psychology, EPFL, 2019-2020
 
 ### Links
 * [Article](article.pdf)
-* [Web App](https://www.anthropomorphic-expressions.herokuapp.com)
+* [Web App](https://anthropomorphic-expressions.vercel.app/)
 * [Web App GitHub Repository](https://github.com/valentinoli/anthropomorphic-expressions)
 
 ### How to reproduce results
